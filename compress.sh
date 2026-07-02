@@ -17,3 +17,5 @@ cd build
 zip -r ../build.zip .
 cd ..
 rm -rf build
+
+./sha1.sh
