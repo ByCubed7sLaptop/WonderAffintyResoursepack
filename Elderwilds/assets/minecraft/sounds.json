@@ -1,5 +1,131 @@
 {
+  "adventure_awaits": {
+    "sounds": ["adventure_awaits"]
+  },
+  "all_for_one": {
+    "sounds": ["all_for_one"]
+  },
+  "another_day": {
+    "sounds": ["another_day"]
+  },
+  "a_quiet_place": {
+    "sounds": ["a_quiet_place"]
+  },
+  "axolotl_paradise": {
+    "sounds": ["axolotl_paradise"]
+  },
+  "beginning": {
+    "sounds": ["beginning"]
+  },
+  "bonus_level": {
+    "sounds": ["bonus_level"]
+  },
+  "celebration": {
+    "sounds": ["celebration"]
+  },
+  "chaos_reigns": {
+    "sounds": ["chaos_reigns"]
+  },
+  "christmas_wonder": {
+    "sounds": ["christmas_wonder"]
+  },
+  "conqueror": {
+    "sounds": ["conqueror"]
+  },
+  "diamond_cave": {
+    "sounds": ["diamond_cave"]
+  },
+  "dragon_within": {
+    "sounds": ["dragon_within"]
+  },
+  "empire": {
+    "sounds": ["empire"]
+  },
+  "fading_memories": {
+    "sounds": ["fading_memories"]
+  },
+  "final_stage": {
+    "sounds": ["final_stage"]
+  },
+  "fire_my_ally": {
+    "sounds": ["fire_my_ally"]
+  },
+  "gold_rush": {
+    "sounds": ["gold_rush"]
+  },
+  "haunted_mansion": {
+    "sounds": ["haunted_mansion"]
+  },
+  "horizons": {
+    "sounds": ["horizons"]
+  },
+  "iron_oath": {
+    "sounds": ["iron_oath"]
+  },
+  "last_hallway": {
+    "sounds": ["last_hallway"]
+  },
+  "legacy": {
+    "sounds": ["legacy"]
+  },
+  "miniature_adventure": {
+    "sounds": ["miniature_adventure"]
+  },
+  "moon_rider": {
+    "sounds": ["moon_rider"]
+  },
+  "my_land": {
+    "sounds": ["my_land"]
+  },
+  "new_world": {
+    "sounds": ["new_world"]
+  },
+  "nightfall": {
+    "sounds": ["nightfall"]
+  },
+  "no_escape": {
+    "sounds": ["no_escape"]
+  },
+  "not_dead_yet": {
+    "sounds": ["not_dead_yet"]
+  },
+  "sakura_valley": {
+    "sounds": ["sakura_valley"]
+  },
+  "shared_fate": {
+    "sounds": ["shared_fate"]
+  },
+  "silent_hero": {
+    "sounds": ["silent_hero"]
+  },
+  "sunrise": {
+    "sounds": ["sunrise"]
+  },
+  "the_end": {
+    "sounds": ["the_end"]
+  },
+  "tiny_paws": {
+    "sounds": ["tiny_paws"]
+  },
+  "to_outrun_time": {
+    "sounds": ["to_outrun_time"]
+  },
+  "trick_or_treat": {
+    "sounds": ["trick_or_treat"]
+  },
+  "union": {
+    "sounds": ["union"]
+  },
+  "vanished": {
+    "sounds": ["vanished"]
+  },
+  "voyage": {
+    "sounds": ["voyage"]
+  },
   "warlord_of_peace": {
     "sounds": ["warlord_of_peace"]
+  },
+  "whispering_woods": {
+    "sounds": ["whispering_woods"]
   }
 }
